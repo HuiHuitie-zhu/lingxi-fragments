@@ -149,3 +149,7 @@ hermes skills import lingxi-fragments
 ## License
 
 MIT — 拿走用，改也好，发也好，标注来源就行。
+
+---
+
+[English Version →](README.EN.md)
