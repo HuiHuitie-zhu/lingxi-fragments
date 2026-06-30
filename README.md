@@ -62,11 +62,11 @@
 - **Codex:** 放入项目根目录的 `AGENTS.md` 或 `.codex/settings.json`
 - **任何 AI 助手:** 粘贴到对话开始的系统提示词中
 
-### Agent 实现版（Claude Code）
+### Agent 实现版（Claude Code / Codex / Cursor 等）
 
 灵感碎片可以包装为带角色、带工具权限、带调度开关的专用 Agent。
 
-参见 [agents/visionary.md](agents/visionary.md)——一个以灵感碎片为核心驱动力的创意发散 Agent。
+参见 [agents/visionary.md](agents/visionary.md)（[English](agents/visionary.en.md)）——一个以灵感碎片为核心驱动力的创意发散 Agent，即拿即用。
 
 ### Hermes 用户
 
