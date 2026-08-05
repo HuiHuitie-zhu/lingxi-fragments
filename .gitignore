@@ -1,0 +1,26 @@
+# 环境与密钥
+.env
+*.pem
+*.key
+*.p12
+
+# 运行时数据
+*.jsonl
+*.db
+*.sqlite
+sessions/
+events/
+probes/
+.scope/
+.benn/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# 编辑器与系统
+.DS_Store
+.idea/
+.vscode/
